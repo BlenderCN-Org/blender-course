@@ -26,3 +26,5 @@
 - it is possible to e.g. scale multiple faces at once with pivot point set to individual
 - when filling (F) first try in simple steps (like two edges)
 - to remove duplicates/doubles use `Mesh->Clean up->Merge by distance` (A-m)
+- subdivision can be used in place of loop cuts can (faces, edges, vertices)
+- dissolve can be used in place of delete
